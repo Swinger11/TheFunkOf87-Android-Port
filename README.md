@@ -1,2 +1,3 @@
 # TheFunkOf87-Android-Port
-The funk of 87
+the oficial Port of the funk of 87
+(Also contains the update thing)
